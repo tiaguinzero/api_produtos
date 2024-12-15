@@ -16,6 +16,7 @@ Esta é uma API desenvolvida em **Node.js** conectada ao **MongoDB Atlas**. Ela 
 - **Express**
 - **MongoDB Atlas**
 - **Mongoose**
+- **Dotenv**
 
 ## Instalação e Configuração
 
